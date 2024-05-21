@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M A AKKAS</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 I am a **full-stack web developer**. I love to create pretty and well-functioning products with super user experiences using the JavaScript universe. I'm interested in the full-stack developer role with my favorite technologies.
-
+<h1/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-sadhin&label=Profile%20views&color=0e75b6&style=flat" alt="coder-sadhin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-sadhin" alt="coder-sadhin" /></a> </p>
