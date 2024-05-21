@@ -1,15 +1,6 @@
-<h1> Hi👋, I'm MD. AKKAS ALI. A Front End Web Developer from Bangladesh .</h1>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white&style=for-the-badge) ![Node JS ](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge) ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
-
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47hp1renlgjsrst74qdkf9gtk1a66h25wusm26x9as&rid=giphy.gif&ct=s" width="200"/ alt="developer">
-</div>
-
-I am a **Front End developer**. I love to create pretty and well-functioning products with superb user experiences using the JavaScript universe. I'm interested in the Front End web development role with my favorite technologies.
-
 <h1 align="center">Hi 👋, I'm M A AKKAS</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
+I am a **full-stack web developer**. I love to create pretty and well-functioning products with super user experiences using the JavaScript universe. I'm interested in the full-stack developer role with my favorite technologies.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-sadhin&label=Profile%20views&color=0e75b6&style=flat" alt="coder-sadhin" /> </p>
 
