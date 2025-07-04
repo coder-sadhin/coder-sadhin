@@ -1,39 +1,61 @@
-<h1 align="center">Hi 👋, I'm M A AKKAS</h1>
-<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
-I am a **full-stack web developer**. I love to create pretty and well-functioning products with super user experiences using the JavaScript universe. I'm interested in the full-stack developer role with my favorite technologies.
-<h1/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-sadhin&label=Profile%20views&color=0e75b6&style=flat" alt="coder-sadhin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-sadhin" alt="coder-sadhin" /></a> </p>
+![Profile Banner](https://github.com/coder-sadhin.png)# 🚀 Hey, I'm M A Akkas!
 
-- 🌱 I’m currently learning **C++, DSA, Python and Django**
+*Full-Stack Web Developer | Django Maestro | Server Sorcerer from Bangladesh 🌟*
 
-- 👨‍💻 All of my projects are available at [https://akkas.dev](https://akkas.dev)
+I’m a passionate **full-stack web developer** crafting seamless, user-friendly apps with the **JavaScript universe** (React, Node.js, Express, MongoDB) and **Django** magic. I also tame **Contabo servers** to deploy scalable solutions. My goal? Build products that wow users and solve real problems. Currently, I’m mastering **C++, DSA, Python**, and diving deeper into Django for next-level web apps.
 
-- 📝 I regularly write articles on [https://www.tipsonetime.com/](https://www.tipsonetime.com/)
+![Profile Views](https://komarev.com/ghpvc/?username=coder-sadhin&style=flat-square&color=1E40AF)## 📑 Table of Contents
 
-- 💬 Ask me about **react, JavaScript, NodeJS, Mongodb, Express**
+- About Me
+- Skills
+- Projects
+- Server Expertise
+- Stats
+- Connect with Me
 
-- 📫 How to reach me **codersadhin@gmail.com**
+## 🌈 About Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fKmhAiVsX9mPkL1q06FLItwL8Or5VQCW/view?usp=sharing](https://drive.google.com/file/d/1fKmhAiVsX9mPkL1q06FLItwL8Or5VQCW/view?usp=sharing)
+- 🔭 Building e-commerce platforms and scalable Django apps.
+- 🌱 Learning **C++, Data Structures & Algorithms, and advanced Django**.
+- 👯 Open to collabs on **React, Node.js, or Django projects**.
+- 💬 Ask me about **JavaScript, Django, MongoDB, or server deployment**.
+- 📝 Sharing tech insights at TipsOneTime.
+- ⚡ Fun fact: *I’m searching for love, but my code keeps stealing the spotlight! 😜*
 
-- ⚡ Fun fact **I want a girlfriend but girls not like me**
+## 🛠️ Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akkas-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akkas-dev/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/akkas.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akkas.dev/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@akkas_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@akkas_dev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/codersadhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/codersadhin" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/akkas-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/akkas-dev" height="30" width="40" /></a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)## 🚀 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **E-Commerce Platform**\
+  A feature-rich online store with wallet, cart, and checkout. *Tech: Django, Tailwind CSS, SQLite, Contabo Server*.\
+  ⭐ *Why it rocks*: Powers seamless shopping experiences!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-sadhin&show_icons=true&locale=en&layout=compact" alt="coder-sadhin" /></p>
+- **Portfolio Website**\
+  My digital playground showcasing projects and blogs. *Tech: React, Tailwind CSS, Node.js*.\
+  🌟 *Highlight*: Designed for stellar UX!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-sadhin&show_icons=true&locale=en" alt="coder-sadhin" /></p>
+- **Learning Management System**\
+  A platform for course creation with custom forms. *Tech: Django, Bootstrap*.\
+  📚 *Impact*: Empowering education online!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-sadhin&" alt="coder-sadhin" /></p>
+*Explore more at akkas.dev!*
+
+## 🖥️ Server Expertise
+
+I manage **Contabo servers** to deploy and scale web applications with ease. My skills include:
+
+- **Setup & Configuration**: VPS provisioning, Nginx/Apache setup, and SSL certificates.
+- **Deployment**: Dockerizing Django apps and automating with CI/CD pipelines.
+- **Optimization**: Caching, load balancing, and database tuning for performance.
+- **Security**: Firewall configs, SSH hardening, and regular backups.
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder-sadhin&show_icons=true&theme=radical&hide_border=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-sadhin&layout=compact&theme=radical&hide_border=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coder-sadhin&theme=radical&hide_border=true)## 🌐 Connect with Me
+
+📧 Email: codersadhin@gmail.com 📄 Resume: View Resume
+
+*Thanks for stopping by! Let’s build epic apps together! 😎*
+
+![Rocket Animation](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
