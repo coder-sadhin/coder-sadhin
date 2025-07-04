@@ -1,11 +1,15 @@
 
-![Profile Banner](https://github.com/coder-sadhin.png)# 🚀 Hey, I'm M A Akkas!
+![Profile Banner](https://github.com/coder-sadhin.png)
+
+*🚀 Hey, I'm M A Akkas!*
 
 *Full-Stack Web Developer | Django Maestro | Server Sorcerer from Bangladesh 🌟*
 
 I’m a passionate **full-stack web developer** crafting seamless, user-friendly apps with the **JavaScript universe** (React, Node.js, Express, MongoDB) and **Django** magic. I also tame **Contabo servers** to deploy scalable solutions. My goal? Build products that wow users and solve real problems. Currently, I’m mastering **C++, DSA, Python**, and diving deeper into Django for next-level web apps.
 
-![Profile Views](https://komarev.com/ghpvc/?username=coder-sadhin&style=flat-square&color=1E40AF)## 📑 Table of Contents
+![Profile Views](https://komarev.com/ghpvc/?username=coder-sadhin&style=flat-square&color=1E40AF)
+
+## 📑 Table of Contents
 
 - About Me
 - Skills
@@ -52,7 +56,9 @@ I manage **Contabo servers** to deploy and scale web applications with ease. My 
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder-sadhin&show_icons=true&theme=radical&hide_border=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-sadhin&layout=compact&theme=radical&hide_border=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coder-sadhin&theme=radical&hide_border=true)## 🌐 Connect with Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder-sadhin&show_icons=true&theme=radical&hide_border=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-sadhin&layout=compact&theme=radical&hide_border=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coder-sadhin&theme=radical&hide_border=true)
+
+## 🌐 Connect with Me
 
 📧 Email: codersadhin@gmail.com 📄 Resume: View Resume
 
