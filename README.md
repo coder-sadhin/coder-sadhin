@@ -47,17 +47,6 @@ I’m a passionate **full-stack web developer** crafting seamless, user-friendly
 
 *Explore more at akkas.dev!*
 
-## 🖥️ Server Expertise
 
-I manage **Contabo servers** to deploy and scale web applications with ease. My skills include:
-
-- **Setup & Configuration**: VPS provisioning, Nginx/Apache setup, and SSL certificates.
-- **Deployment**: Dockerizing Django apps and automating with CI/CD pipelines.
-- **Optimization**: Caching, load balancing, and database tuning for performance.
-- **Security**: Firewall configs, SSH hardening, and regular backups.
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder-sadhin&show_icons=true&theme=radical&hide_border=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-sadhin&layout=compact&theme=radical&hide_border=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coder-sadhin&theme=radical&hide_border=true)
 
 
