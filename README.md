@@ -14,3 +14,10 @@
 
 ## Hello, I'm **`MD AKKAS ALI 👋`**. My journey in **`software engineering`** began with a strong academic and practical foundation in computer science and technology. Over time, I’ve developed a deep understanding of algorithms, data structures, and full-stack development, which allows me to design scalable, efficient, and user-centric applications. I enjoy solving real-world problems and building products that create meaningful impact.
 
+## ⚡ About Me
+* 🌍  I'm based in **`China`**
+* 🖥️  See my portfolio at: [My Website](https://developer-akkas-ali.vercel.app/)
+* 💻  Full-Stack Developer: ( Django | MERN | PostgreSQL | REST APIs )
+* ✉️  You can contact me at: [codersadhin@gmail.com](mailto:codersadhin@gmail.com)
+* 🧠  I'm currently learning **`Machine Learning` & `Deep Learning`**
+* 🌐  Check out my GitLab: Coming Soon
