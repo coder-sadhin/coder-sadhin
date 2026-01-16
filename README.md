@@ -213,3 +213,31 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+## ⚒ Quick Stats About Me
+
+<!-- | Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=coder-sadhin&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-sadhin&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+
+
+<h2 class="center">
+ 
+
+</h2>
+
+
+
+<img src="https://github-contributor-stats.vercel.app/api?username=coder-sadhin&limit=5&theme=dark&combine_all_yearly_contributions=true%22" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-sadhin&theme=github-dark&hide_border=true" alt="Tanvir's Activity Graph" /> -->
+
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=coder-sadhin&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
+
+
+<!--END_SECTION:waka-->
