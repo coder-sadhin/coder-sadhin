@@ -21,3 +21,14 @@
 * ✉️  You can contact me at: [codersadhin@gmail.com](mailto:codersadhin@gmail.com)
 * 🧠  I'm currently learning **`Machine Learning` & `Deep Learning`**
 * 🌐  Check out my GitLab: Coming Soon
+
+### 🛠️ Skills & Expertise
+
+**Backend Development:** •Django  • Database Servers • Entity Framework (EF) Core • Entity Framework • API Development • Model-View-Controller (MVC) • MySQL • MongoDB
+
+
+**Frontend Development:** ReactJS • JavaScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Sass
+
+**Programming Languages:** Python • Java • C++ • C • JavaScripts
+
+**Development Tools:** Visual Studio • Git • GitHub • GitLab • Firebase
