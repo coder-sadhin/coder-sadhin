@@ -60,10 +60,4 @@ I manage **Contabo servers** to deploy and scale web applications with ease. My 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder-sadhin&show_icons=true&theme=radical&hide_border=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-sadhin&layout=compact&theme=radical&hide_border=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coder-sadhin&theme=radical&hide_border=true)
 
-## 🌐 Connect with Me
 
-📧 Email: codersadhin@gmail.com 📄 Resume: View Resume
-
-*Thanks for stopping by! Let’s build epic apps together! 😎*
-
-![Rocket Animation](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
