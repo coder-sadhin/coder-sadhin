@@ -7,7 +7,7 @@
 </h1>
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00c7b7&size=25&center=true&vCenter=true&width=900&height=60&lines=Django+Developer;Machine+Learning+%26+Deep+Learning+Enthusiast;Software+Engineering+Student;Creative+Problem+Solver" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00c7b7&size=25&center=true&vCenter=true&width=900&height=60&lines=Django+Developer;Machine+Learning+%26+Deep+Learning+Enthusiast;Computer+Engineering+Student;Creative+Problem+Solver" alt="Typing SVG">
   </a>
 </p>
 
