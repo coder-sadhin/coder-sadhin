@@ -12,5 +12,5 @@
 </p>
 
 
-
+## Hello, I'm **`MD AKKAS ALI 👋`**. My journey in **`software engineering`** began with a strong academic and practical foundation in computer science and technology. Over time, I’ve developed a deep understanding of algorithms, data structures, and full-stack development, which allows me to design scalable, efficient, and user-centric applications. I enjoy solving real-world problems and building products that create meaningful impact.
 
